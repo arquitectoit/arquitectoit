@@ -15,6 +15,7 @@ Hace no mucho participaba en una conversación sobre los nuevos modelos de desar
 <strong>¿Por qué hemos llegado a ese punto en el cual no se ve útil un modelo de arquitectura de software para una empresa?</strong> ¿Por qué hemos pasado de tener asentados modelos arquitecturales, en ciertas ocasiones megalómanos,  a negar la mayor?
 
 Quizás echando la vista atrás y viendo la metamorfosis en los modelos de arquitectura de software podamos entender mejor este planteamiento. Este análisis nos debería permitir establecer las bases para lo que deben de ser los nuevos modelos arquitecturales.
+
 <h3><strong>Arquitectura: Una necesidad imperiosa</strong></h3>
 La acumulación de software que se empezaba a producir en los años 90 dentro de las grandes empresas derivó en la adopción de Arquitecturas de Software como modelos de organización y optimización de dichos desarrollos.
 
@@ -38,6 +39,7 @@ Dentro de las malas prácticas de esta época destacamos:
  	<li>Exceso de modelado de las aplicaciones. <strong>Intento de modelar cualquier paso del proceso de desarrollo,</strong> por muy insignificante que este fuese. Acompañado del error de aplicar técnicas de modelado UML a cualquier elemento y sobre cualquier tipo de proyecto.</li>
  	<li><strong>No adaptación de los procesos de desarrollo, control y eficiencia a los nuevos tiempos y tecnologías</strong>. Anclaje radical en las tecnologías del pasado. Creencia del <em>"esto ya lo hacía el host"</em>.</li>
 </ul>
+
 <h3><strong>Transformación Digital: La nueva arquitectura </strong></h3>
 La nueva época de transformación digital en la que nos encontramos y el conjunto de cambios tecnológicos que conlleva pide a gritos un nuevo modelo de arquitectura que ayude a las organizaciones en dicho proceso.
 
