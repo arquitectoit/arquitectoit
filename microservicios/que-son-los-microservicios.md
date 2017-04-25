@@ -8,6 +8,8 @@ layout: post
 permalink: >
   http://www.arquitectoit.com/arquitectura/que-son-los-microservicios/
 published: true
+gitfolder:
+  - microservicios
 ---
 Una de las tendencias en Arquitectura de Software de las que más se viene hablando las últimas fechas (desde el 2014) son los <b>microservicios</b>. Pero, realmente, <em>¿qué son los microservicios? ¿Qué tiene que ver los microservicios con el SOA? ¿Qué nuevas capacidades nos ofrecen dentro del ámbito del desarrollo de </em>aplicaciones?
 
@@ -17,23 +19,23 @@ Si pensamos en aplicaciones de software uno de los enfoques de diseño es el de 
 
 El diseño de aplicaciones monolíticas trae consigo una serie de problemas o inconvenientes:
 <ul>
-	<li>El tiempo invertido en realizar un pequeño cambio y desplegarlo en PRO</li>
-	<li>Capacidad de absorber nuevas necesidades en el software que se está desarrollando.</li>
-	<li>Ante un cambio, hay que probar toda la aplicación. Hay que tener arrancada toda la aplicación aunque hagas pruebas unitarias.</li>
-	<li>Ante un cambio hay que volver a desplegar toda la aplicación y rearrancarla.</li>
-	<li>Al ser un solo proceso se ejecuta una sola vez y el escalado deberá de ser detrás de un balanceador que escale de forma horizontal por varias instancias.</li>
-	<li>En los circuitos de desarrollo, cambios, despliegue y pruebas queda tan poco tiempo entre release y release que es complejo realizar la gestión de versiones/release llegando a complicar mucho la gestión del software.</li>
+ 	<li>El tiempo invertido en realizar un pequeño cambio y desplegarlo en PRO</li>
+ 	<li>Capacidad de absorber nuevas necesidades en el software que se está desarrollando.</li>
+ 	<li>Ante un cambio, hay que probar toda la aplicación. Hay que tener arrancada toda la aplicación aunque hagas pruebas unitarias.</li>
+ 	<li>Ante un cambio hay que volver a desplegar toda la aplicación y rearrancarla.</li>
+ 	<li>Al ser un solo proceso se ejecuta una sola vez y el escalado deberá de ser detrás de un balanceador que escale de forma horizontal por varias instancias.</li>
+ 	<li>En los circuitos de desarrollo, cambios, despliegue y pruebas queda tan poco tiempo entre release y release que es complejo realizar la gestión de versiones/release llegando a complicar mucho la gestión del software.</li>
 </ul>
 <blockquote>Esto no quiere decir que el desarrollo de aplicaciones monolíticas no sea una solución. Hay casos en los que es una buena opción.</blockquote>
 <h3><b>Nuevas tendencias en el desarrollo del software</b></h3>
 Los <strong>microservicios</strong> no han llegado al diseño del software de la noche a la mañana, si no, que hay un conjunto de tendencias que han hecho que el escenario sea favorable.
 <ul>
-	<li>Mejora en los procesos de integración continua y despliegue de software</li>
-	<li>Consolidación de los API mediante sistemas RESTful como sistemas de integración.</li>
-	<li>Necesidad de acometer nuevas tecnologías como el BigData</li>
-	<li>El cloud con la disponibilidad de entornos de ejecución autoaprovisionados.</li>
-	<li>Implantación de metodologías ágiles, dónde hay un desarrollo dirigido por el usuario en búsqueda de funcionalidad útiles, dentro de un proceso iterativo.</li>
-	<li>Abandono paulatino de los enfoques de factoría del desarrollo del software hacía un modelo más artesanal. Menos ingeniería y más creatividad.</li>
+ 	<li>Mejora en los procesos de integración continua y despliegue de software</li>
+ 	<li>Consolidación de los API mediante sistemas RESTful como sistemas de integración.</li>
+ 	<li>Necesidad de acometer nuevas tecnologías como el BigData</li>
+ 	<li>El cloud con la disponibilidad de entornos de ejecución autoaprovisionados.</li>
+ 	<li>Implantación de metodologías ágiles, dónde hay un desarrollo dirigido por el usuario en búsqueda de funcionalidad útiles, dentro de un proceso iterativo.</li>
+ 	<li>Abandono paulatino de los enfoques de factoría del desarrollo del software hacía un modelo más artesanal. Menos ingeniería y más creatividad.</li>
 </ul>
 <h3><strong>¿Qué resuelven los Microservicios?</strong></h3>
 Los microservicios no vienen a resolver un nuevo problema, si no que nos ofrecen una forma diferente de enfocar el desarrollo de aplicaciones. La idea que subyace detrás de las arquitecturas de microservicios es el<em> “divide y vencerás”</em>. El nuevo modelo plantea dividir la aplicación en pequeñas funcionalidades o servicios para implementar la aplicación.
