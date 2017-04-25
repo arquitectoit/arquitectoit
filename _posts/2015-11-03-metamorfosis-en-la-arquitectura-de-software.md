@@ -1,22 +1,15 @@
 ---
 ID: 643
-post_title: >
-  Metamorfosis en la Arquitectura de
-  Software
+post_title: Metamorfosis en la Arquitectura de Software"
 author: Víctor Cuervo
 post_date: 2015-11-03 12:00:20
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.arquitectoit.com/editorial/metamorfosis-en-la-arquitectura-de-software/
+permalink: http://www.arquitectoit.com/editorial/metamorfosis-en-la-arquitectura-de-software/
 published: true
-itrans_hidetitle:
-  - "0"
-itrans_show_slider:
-  - "0"
-itrans_hide_breadcrumb:
-  - "0"
+gitfolder: editorial
 ---
+
 Hace no mucho participaba en una conversación sobre los nuevos modelos de desarrollo de software. Equipos ágiles y autosuficientes, con capacidad de decisión a la hora de crear y desplegar su software. Y una de las conclusiones a las que se llegó no dejó de despertar en mí cierto asombro, a la vez que perplejidad... <em>"No hay arquitectura, cada uno desarrolla como cree que es correcto".</em>
 
 <strong>¿Por qué hemos llegado a ese punto en el cual no se ve útil un modelo de arquitectura de software para una empresa?</strong> ¿Por qué hemos pasado de tener asentados modelos arquitecturales, en ciertas ocasiones megalómanos,  a negar la mayor?
