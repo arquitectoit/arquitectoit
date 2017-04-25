@@ -8,16 +8,14 @@ layout: post
 permalink: >
   http://www.arquitectoit.com/arquitectura/el-reto-de-monitorizar-microservicios/
 published: true
-itrans_hidetitle:
-  - "0"
-itrans_show_slider:
-  - "0"
-itrans_hide_breadcrumb:
-  - "0"
+gitfolder:
+  - microservicios
+yst_is_cornerstone:
+  - ""
 ---
-Interesante charla de <a title="Twitter de Adrian Cockcroft" href="https://twitter.com/adrianco" target="_blank">Adrian Cockcroft</a> sobre <strong>El reto de Monitorizar Microservicios <em> (Monitoring Microservices: A challenge!).</em></strong>
+Interesante charla de <a title="Twitter de Adrian Cockcroft" href="https://twitter.com/adrianco" target="_blank" rel="noopener noreferrer">Adrian Cockcroft</a> sobre <strong>El reto de Monitorizar Microservicios <em> (Monitoring Microservices: A challenge!).</em></strong>
 
-<a title="Twitter de Adrian Cockcroft" href="https://twitter.com/adrianco" target="_blank">Adrian Cockcroft</a> incide en que la propia definición de un microservicio "Loosely coupled service oriented architecture with bounded context" nos da dos de los puntos a tener en cuenta a la hora de monitorizar microservicios. Y es que al ser ligeramente acoplados y al tener su contexto acotado tendremos muchos microservicios que tendrán alguna relación entre sí.
+<a title="Twitter de Adrian Cockcroft" href="https://twitter.com/adrianco" target="_blank" rel="noopener noreferrer">Adrian Cockcroft</a> incide en que la propia definición de un microservicio "Loosely coupled service oriented architecture with bounded context" nos da dos de los puntos a tener en cuenta a la hora de monitorizar microservicios. Y es que al ser ligeramente acoplados y al tener su contexto acotado tendremos muchos microservicios que tendrán alguna relación entre sí.
 
 En la monitorización de servicios serán importantes:
 
@@ -35,7 +33,7 @@ En la monitorización de servicios serán importantes:
 
 <strong>6. Simulación</strong>, cómo se pueden simular los diferentes tipos de arquitecturas de microservicios a tener y ver cual sería su comportamiento.
 
-Para este diseño de los flujos, pruebas de test, detección de fallos en arquitecturas de microservicios, <a title="Twitter de Adrian Cockcroft" href="https://twitter.com/adrianco" target="_blank">Adrian Cockcroft</a> ha creado <a title="Spigo" href="https://github.com/adrianco/spigo" target="_blank">la herramienta Spigo</a>, la cual nos ayudará en la definición de este tipo de arquitecturas.
+Para este diseño de los flujos, pruebas de test, detección de fallos en arquitecturas de microservicios, <a title="Twitter de Adrian Cockcroft" href="https://twitter.com/adrianco" target="_blank" rel="noopener noreferrer">Adrian Cockcroft</a> ha creado <a title="Spigo" href="https://github.com/adrianco/spigo" target="_blank" rel="noopener noreferrer">la herramienta Spigo</a>, la cual nos ayudará en la definición de este tipo de arquitecturas.
 
 No os perdáis el vídeo sobre <strong>El reto de Monitorizar Microservicios<em> (Monitoring Microservices: A challenge!)</em></strong>
 
