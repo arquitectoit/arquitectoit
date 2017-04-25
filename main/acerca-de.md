@@ -7,14 +7,12 @@ post_excerpt: ""
 layout: page
 permalink: http://www.arquitectoit.com/acerca-de/
 published: true
-itrans_hidetitle:
-  - "0"
-itrans_show_slider:
-  - "0"
-itrans_hide_breadcrumb:
-  - "0"
+gitfolder:
+  - main
+yst_is_cornerstone:
+  - ""
 ---
-<img class="alignright size-full wp-image-534 pull-right" src="http://www.arquitectoit.com/wp-content/uploads/2014/12/arquitectoit.jpg" alt="arquitectoit" width="320" height="213" /><strong>En <a title="Arquitecto IT" href="http://www.arquitectoit.com" target="_blank">ArquitectoIT.com</a> nos hemos juntado un grupo de Arquitectos IT</strong> que tienen ganas de hablar sobre <strong>nuevas tecnologías</strong>, de cómo estas nos pueden ayudar en el desarrollo de proyectos. <strong>Arquitectos IT que quieren compartir sus experiencias y conocimientos</strong>.
+<img class="alignright size-full wp-image-534 pull-right" src="http://www.arquitectoit.com/wp-content/uploads/2014/12/arquitectoit.jpg" alt="arquitectoit" width="320" height="213" /><strong>En <a title="Arquitecto IT" href="http://www.arquitectoit.com" target="_blank" rel="noopener noreferrer">ArquitectoIT.com</a> nos hemos juntado un grupo de Arquitectos IT</strong> que tienen ganas de hablar sobre <strong>nuevas tecnologías</strong>, de cómo estas nos pueden ayudar en el desarrollo de proyectos. <strong>Arquitectos IT que quieren compartir sus experiencias y conocimientos</strong>.
 
 Buscamos <strong>la conversación, la crítica, el aprendizaje, el debate</strong>,... pero siempre desde el lado positivo, desde el lado de la colaboración, del compañerismo, del aporte de soluciones por parte de la gente. Buscamos que, de forma ordenada, la gente exprese sus visiones, de a conocer sus puntos de vista sobre las cosas que aquí se escriben.
 
