@@ -13,6 +13,7 @@ Los temas de los que se hablan son:
 * Microservicios
 * Big Data
 * Seguridad
+* Front-End
 
 Además contamos con una **Editorial** en la que se exponen temas generales y de opinión relacionados con la Arquitectura IT.
 
