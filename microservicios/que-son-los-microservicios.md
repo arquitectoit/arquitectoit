@@ -5,11 +5,9 @@ author: Víctor Cuervo
 post_date: 2016-03-08 10:00:55
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.arquitectoit.com/arquitectura/que-son-los-microservicios/
+permalink: http://www.arquitectoit.com/arquitectura/que-son-los-microservicios/
 published: true
-gitfolder:
-  - microservicios
+gitfolder: microservicios
 ---
 Una de las tendencias en Arquitectura de Software de las que más se viene hablando las últimas fechas (desde el 2014) son los <b>microservicios</b>. Pero, realmente, <em>¿qué son los microservicios? ¿Qué tiene que ver los microservicios con el SOA? ¿Qué nuevas capacidades nos ofrecen dentro del ámbito del desarrollo de </em>aplicaciones?
 
