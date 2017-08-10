@@ -5,20 +5,9 @@ author: ArquitectoIT
 post_date: 2012-06-08 10:00:37
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.arquitectoit.com/general/arquitectoit-com-arquitectos-hablando-de-tecnologia-y-arquitectura/
+permalink: http://www.arquitectoit.com/general/arquitectoit-com-arquitectos-hablando-de-tecnologia-y-arquitectura/
 published: true
-slide_template:
-  - default
-itrans_hidetitle:
-  - "0"
-itrans_show_slider:
-  - "0"
-itrans_hide_breadcrumb:
-  - "0"
 ---
-&nbsp;
-
 Como Arquitectos IT que somos hemos podido comprobar que <strong>un buen uso de la tecnología, un uso razonable y en un camino de equidad conlleva el poder realizar grandes proyectos de tecnología</strong>. El Arquitecto IT, denostado a veces, glorificado las que menos, intenta dar una visión de la <strong>estandarización, coherencia y buen uso de las tecnologías</strong>. Para ello, el Arquitecto IT se basa en el uso de estándares, patrones, buenas prácticas, prueba nuevas tecnologías, intenta convencer en el avance tecnológico,...
 
 <strong>En <a title="Arquitecto IT" href="http://www.arquitectoit.com" target="_blank">ArquitectoIT.com</a> nos hemos juntado un grupo de Arquitectos IT</strong> que tienen ganas de hablar sobre <strong>nuevas tecnologías</strong>, de cómo estas nos pueden ayudar en el desarrollo de proyectos. <strong>Arquitectos IT que quieren compartir sus experiencias y conocimientos</strong>.
