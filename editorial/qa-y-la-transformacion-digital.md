@@ -5,15 +5,8 @@ author: ArquitectoIT
 post_date: 2015-11-07 09:00:42
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.arquitectoit.com/editorial/qa-y-la-transformacion-digital/
+permalink: http://www.arquitectoit.com/editorial/qa-y-la-transformacion-digital/
 published: true
-itrans_hidetitle:
-  - "0"
-itrans_show_slider:
-  - "0"
-itrans_hide_breadcrumb:
-  - "0"
 ---
 Más de uno está dando vueltas sobre cuál tiene que ser <strong>el papel de los departamentos de QA dentro de la transformación digital</strong>. La necesidad de modelos ágiles es confundida, con demasiada frecuencia, con una reducción del tiempo en el desarrollo del software. Esto puede desencadenar en la eliminación de ciertas tareas, las cuales, en un primer momento, pueden parecer sobrantes para el programador. Véase el QA. Más aún, algún directivo puede estar pensando en la eliminación de los departamentos de QA en el modelo de transformación digital. Craso error.
 
