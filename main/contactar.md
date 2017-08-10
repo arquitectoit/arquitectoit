@@ -7,12 +7,6 @@ post_excerpt: ""
 layout: page
 permalink: http://www.arquitectoit.com/contactar/
 published: true
-itrans_hidetitle:
-  - "0"
-itrans_show_slider:
-  - "0"
-itrans_hide_breadcrumb:
-  - "0"
 ---
 Puedes ponerte en contacto con <strong>Arquitecto IT</strong> mediante el siguiente formulario:
 
