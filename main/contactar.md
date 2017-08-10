@@ -7,6 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: http://www.arquitectoit.com/contactar/
 published: true
+gitfolder: main
 ---
 En el caso de que quieras consultar algo a **Arquitecto IT**, poner publicidad en la web, saber cómo colaborar con nosotros,... o cualquier otro menester, puedes hacerlo mediante el siguiente formulario.
 

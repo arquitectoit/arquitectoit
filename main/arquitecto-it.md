@@ -7,6 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: http://www.arquitectoit.com/
 published: true
+gitfolder: main
 ---
 <div class="headline">
 <h2>Arquitecto IT</h2>
