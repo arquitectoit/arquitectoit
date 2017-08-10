@@ -8,4 +8,4 @@ layout: post
 permalink: http://www.arquitectoit.com/cloud/que-es-el-cloud/
 published: true
 ---
-aaaa
+En este artículo vamos a ver qué es el concepto de **Cloud**. Cuando hablamos de **Cloud**...
