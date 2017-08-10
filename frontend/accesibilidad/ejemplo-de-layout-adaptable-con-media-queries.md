@@ -1,23 +1,12 @@
 ---
 ID: 262
-post_title: >
-  Ejemplo de Layout Adaptable con Media
-  Queries
+post_title: Ejemplo de Layout Adaptable con Media Queries
 author: juan.m.garcia.m
 post_date: 2012-09-10 09:00:07
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.arquitectoit.com/front-end/ejemplo-de-layout-adaptable-con-media-queries/
+permalink: http://www.arquitectoit.com/front-end/ejemplo-de-layout-adaptable-con-media-queries/
 published: true
-slide_template:
-  - default
-video_type:
-  - youtube
-video_id:
-  - ""
-video_poster:
-  - ""
 ---
 <h3>Ejemplo de Diseño Sensible</h3>
 Para el desarrollo de este ejemplo, <a title="Layout Adaptable en Diseños “Sensibles”" href="http://www.arquitectoit.com/accesibilidad/layout-adaptable-en-disenos-sensibles/">tomamos el caso descrito en mi anterior articulo a modo de diseño</a>. De este modo, tenemos una página <strong>que va a adaptar su presentación de acuerdo al ancho del dispositivo que accede a ella</strong>.
@@ -100,8 +89,8 @@ Para que se aplique la hoja de estilo correspondiente, debemos incluir en nuestr
 
 Para ello, empleamos la etiqueta “link”, añadiendo las dos hojas de estilos:
 <pre lang="html4strict"><!-- Estilos-->
-	
-	
+
+
 <!-- Fin Estilos--></pre>
 Como se observa, a primera vista, tenemos un nuevo atributo “media” que es el que vamos a emplear para indicar cuando se debe aplicar cada una de las hojas de estilos.
 <h3>Herramientas empleadas</h3>

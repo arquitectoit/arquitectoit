@@ -5,23 +5,8 @@ author: juan.m.garcia.m
 post_date: 2012-08-12 19:36:03
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.arquitectoit.com/front-end/layout-adaptable-en-disenos-sensibles/
+permalink: http://www.arquitectoit.com/front-end/layout-adaptable-en-disenos-sensibles/
 published: true
-slide_template:
-  - default
-video_type:
-  - youtube
-video_id:
-  - ""
-video_poster:
-  - ""
-itrans_hidetitle:
-  - "0"
-itrans_show_slider:
-  - "0"
-itrans_hide_breadcrumb:
-  - "0"
 ---
 <h3>Que tu diseño sea "Sensible" al contexto del usuario</h3>
 Dentro del ámbito de la Accesibilidad, encontramos un punto muy importante, que todo arquitecto y desarrollador Web debería de tener en cuenta a la hora de plantear la Arquitectura de una nueva Aplicación Web. Me estoy refiriendo a la<strong> adaptación del contenido al dispositivo</strong> que emplea el usuario para acceder a dicha aplicación, tomando de modo adicional el contexto en el que se desenvuelve.
