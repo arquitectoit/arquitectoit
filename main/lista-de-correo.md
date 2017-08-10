@@ -8,6 +8,6 @@ layout: page
 permalink: http://www.arquitectoit.com/lista-de-correo/
 published: true
 ---
-Si quieres estar al día de todas las novedades de <a href="http://www.arquitectoit.com" title="Arquitecto IT">Arquitecto IT</a> solo tienes que dejarnos tu e-mail.
+Si quieres estar al día de todas las novedades que vayan surgiendo en <a href="http://www.arquitectoit.com" title="Arquitecto IT">Arquitecto IT</a> solo tienes que dejarnos tu e-mail.
 
 [mailchimpsf_form]
