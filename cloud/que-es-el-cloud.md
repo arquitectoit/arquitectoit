@@ -1,5 +1,5 @@
 ---
-ID: 734
+ID: pdte
 post_title: ¿Qué es el Cloud?
 author: Víctor Cuervo
 post_date: 2017-08-11 01:32
