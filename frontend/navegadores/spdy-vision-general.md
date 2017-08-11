@@ -7,6 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: http://www.arquitectoit.com/front-end/spdy-vision-general/
 published: true
+gitfolder: frontend/navegadores
 ---
 <h3>¿Qué es SPDY?</h3>
 En noviembre de 2009, Google, dentro de su proyecto <a title="Let's make the web faster" href="https://developers.google.com/speed/?hl=es" target="_blank">Let's make the web faster</a>, anuncia la creación de un nuevo protocolo cuyo principal objetivo es reducir el tiempo de carga de las páginas web. El nombre elegido para el nuevo protocolo es <a title="SPDY" href="http://dev.chromium.org/spdy" target="_blank">SPDY</a> (pronunciado <em>Speedy</em>).

@@ -7,6 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: http://www.arquitectoit.com/front-end/ejemplo-de-layout-adaptable-con-media-queries/
 published: true
+gitfolder: frontend/accesibilidad
 ---
 <h3>Ejemplo de Diseño Sensible</h3>
 Para el desarrollo de este ejemplo, <a title="Layout Adaptable en Diseños “Sensibles”" href="http://www.arquitectoit.com/accesibilidad/layout-adaptable-en-disenos-sensibles/">tomamos el caso descrito en mi anterior articulo a modo de diseño</a>. De este modo, tenemos una página <strong>que va a adaptar su presentación de acuerdo al ancho del dispositivo que accede a ella</strong>.

@@ -7,6 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: http://www.arquitectoit.com/front-end/layout-adaptable-en-disenos-sensibles/
 published: true
+gitfolder: frontend/accesibilidad
 ---
 <h3>Que tu diseño sea "Sensible" al contexto del usuario</h3>
 Dentro del ámbito de la Accesibilidad, encontramos un punto muy importante, que todo arquitecto y desarrollador Web debería de tener en cuenta a la hora de plantear la Arquitectura de una nueva Aplicación Web. Me estoy refiriendo a la<strong> adaptación del contenido al dispositivo</strong> que emplea el usuario para acceder a dicha aplicación, tomando de modo adicional el contexto en el que se desenvuelve.
