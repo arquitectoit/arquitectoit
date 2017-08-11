@@ -7,6 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: http://www.arquitectoit.com/general/arquitectoit-com-arquitectos-hablando-de-tecnologia-y-arquitectura/
 published: true
+gitfolder: editorial
 ---
 Como Arquitectos IT que somos hemos podido comprobar que <strong>un buen uso de la tecnología, un uso razonable y en un camino de equidad conlleva el poder realizar grandes proyectos de tecnología</strong>. El Arquitecto IT, denostado a veces, glorificado las que menos, intenta dar una visión de la <strong>estandarización, coherencia y buen uso de las tecnologías</strong>. Para ello, el Arquitecto IT se basa en el uso de estándares, patrones, buenas prácticas, prueba nuevas tecnologías, intenta convencer en el avance tecnológico,...
 

@@ -7,6 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: http://www.arquitectoit.com/front-end/disenos-web-multimedia-con-popcorn/
 published: true
+gitfolder: frontend/multimedia
 ---
 La aparición de los elementos <a title="Elemento video de HTML5" href="http://w3api.com/wiki/HTML5:VIDEO">VIDEO</a> y <a title="Elemento audio en HTML5" href="http://w3api.com/wiki/HTML5:AUDIO">AUDIO</a> en <strong>HTML5 ha simplificado la capacidad de insertar elementos multimedia en nuestros diseños webs</strong>. Si bien, el estado primigenio de la especificación HTML5 hace que sea complicado mantener la compatibilidad de código para diferentes navegadores.
 <h3>Popcorn: Unificando el elemento VIDEO</h3>
@@ -87,4 +88,4 @@ Adicionalmente podemos <a title="Código fuente de Popcorn Maker" href="https://
 
 ---
 
-Más información sobre el proyecto en <strong><a title="Mozilla Popcorn" href="http://mozillapopcorn.org">Mozilla Popcorn</a></strong> y<strong> <a title="Proyecto Mozilla Popcorn en Twitter" href="https://twitter.com/popcornjs">@popcornjs</a></strong>
+Puedes encontrar más información sobre el proyecto en <strong><a title="Mozilla Popcorn" href="http://mozillapopcorn.org">Mozilla Popcorn</a></strong> y<strong> <a title="Proyecto Mozilla Popcorn en Twitter" href="https://twitter.com/popcornjs">@popcornjs</a></strong>
